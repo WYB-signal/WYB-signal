@@ -4,6 +4,7 @@
 
 热爱网安、热爱技术。
 
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### 开源项目
 
