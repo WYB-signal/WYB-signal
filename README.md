@@ -4,25 +4,8 @@
 
 Someone who loves cybersecurity.
 
- <img align="left" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
-
-
-
-
-
-
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JasonWells-Nandin&repo=email_domain_hog)](https://github.com/JasonWells-Nandin/email_domain_hog)
 <br><br><br>
-
-
-
-
-
-
-
 
 ### Github Activity
 
@@ -31,3 +14,7 @@ Someone who loves cybersecurity.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonWells-Nandin&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonWells-Nandin&layout=compact&langs_count=6)
+
+
+
+ <img align="left" alt="GIF" src="./images/code.gif" width="430" height="100%" />
